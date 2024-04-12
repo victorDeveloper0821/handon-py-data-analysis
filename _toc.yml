@@ -1,0 +1,7 @@
+format: jb-article
+root: README
+sections:
+- file: getStarted.ipynb
+- file: NumpyPractice.ipynb
+- file: PandasPractice.ipynb
+- file: TitanicPrediction.ipynb

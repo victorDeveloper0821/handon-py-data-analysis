@@ -16,3 +16,5 @@ datashader-work/pyviz-examples/*
 
 *.vscode*
 *.code-workspace
+
+_build/*
